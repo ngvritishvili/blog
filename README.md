@@ -4,8 +4,9 @@ for running project
 
 download git repository 
 
+run
 ```console
-run composer install
+composer install
 ```
 ```console
 and npm install 
