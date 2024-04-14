@@ -9,7 +9,7 @@ run
 composer install
 ```
 ```console
-and npm install 
+npm install 
 ```
 
 migrate and seeding : (before set up db in .env)
